@@ -1,4 +1,4 @@
-% Solution of 1-D Flow Routing Equation by Bright Takyi (10878402)
+% Solution of 1-D Flow Routing Equation by Bright Takyi 
 % Flow Routing Equation; Q_t = -c*Q_x + u*Q_xx
 % Initial and Boundary Conditions; 
 % Q(x,0)=Q0, Q(0,t)=Q1, dQ/dx=0
